@@ -1,5 +1,5 @@
 # Python Concurrency
-Python Concurrency For Reference
+Python Concurrency For Reference.
 
 ### Getting Started
 The goal of this repository is to show what python offers to handle concurrency and multi-processing.
